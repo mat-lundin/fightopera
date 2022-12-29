@@ -1,7 +1,10 @@
 const about = () => {
     return (
     <div id='about'>
+        <div className="banner">
         <h1>Fight Opera</h1>
+        </div>
+        
         <p>Perspiciatis
             minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit
             quibusdam sed amet tempora. Sit laborum ab, eius fugit doloribus tenetur

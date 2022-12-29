@@ -1,3 +1,11 @@
+:root {
+    --light-text: antiquewhite;
+}
+
+h1 {
+    color: var(--light-text);
+}
+
 nav {
     background-image: url('../public/images/nav/header2.png');
     background-size: 25%;
@@ -15,9 +23,8 @@ nav {
 }
 
 .banner {
-    background-image: url('../public/images/IG/305708817_5450915844999749_5606405213898827815_n.jpg');
-    background-position: 0em 37em;
-    height: 30vh;
+
+    height: 40vh;
     margin-bottom: 3em;
 }
 
@@ -32,10 +39,26 @@ nav {
     /* background-repeat: none; */
 }
 
+#shows .banner {
+    background-image: url('../public/images/IG/305708817_5450915844999749_5606405213898827815_n.jpg');
+    background-position: 0em 37em;
+}
+
 #wrestlers {
-    height: 90vh;
+    height: 70vh;
+
+}
+
+#wrestlers .banner {
     background-image: url('../public/images/IG/311181289_634513091512001_1715567706480022684_n.jpg');
     background-size: cover;
+    background-position-y: -6vh ;
+}
+
+#about .banner {
+    background-image: url('../public/images/IG/308707539_193603223037387_810455091839222362_n.jpg');
+    background-size: cover;
+    background-position-y: -75vh ;
 }
 
 #footer {
