@@ -1,5 +1,5 @@
 nav {
-    background-image: url('../public/images/header2.png');
+    background-image: url('../public/images/nav/header2.png');
     background-size: 25%;
     background-position: center;
     /* background-repeat: no-repeat; */
@@ -14,8 +14,33 @@ nav {
     margin-left: 2%;
 }
 
+.banner {
+    background-image: url('../public/images/IG/305708817_5450915844999749_5606405213898827815_n.jpg');
+    background-position: 0em 37em;
+    height: 30vh;
+    margin-bottom: 3em;
+}
+
+#home {
+    height: 90vh;
+    background-image: url('../public/images/IG/301730435_460273709332977_8805898641640415304_n.jpg');
+}
+
+#shows {
+    height: 70vh;
+    /* background-image: url('../public/images/IG/310159502_503923617884933_8729406778848083505_n.jpg'); */
+    /* background-repeat: none; */
+}
+
+#wrestlers {
+    height: 90vh;
+    background-image: url('../public/images/IG/311181289_634513091512001_1715567706480022684_n.jpg');
+    background-size: cover;
+}
+
 #footer {
     background-image: none;
+
 }
 
 #footer img {
