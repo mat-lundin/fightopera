@@ -1,9 +1,16 @@
 :root {
     --light-text: antiquewhite;
+    --font: url('./fonts/fredericka-the-great.regular.ttf')
+}
+
+@font-face {
+    font-family: 'fredericka';
+    src: url(./fonts/fredericka-the-great.regular.ttf) format('truetype');
 }
 
 h1 {
     color: var(--light-text);
+    font-family: 'fredericka';
 }
 
 nav {
@@ -12,7 +19,7 @@ nav {
     background-position: center;
     /* background-repeat: no-repeat; */
     background-position-x: right;
-    
+    font-family: 'fredericka';
 }
 
 .nav-link {
@@ -31,6 +38,7 @@ nav {
 #home {
     height: 90vh;
     background-image: url('../public/images/IG/301730435_460273709332977_8805898641640415304_n.jpg');
+    background-position-y: 60em;
 }
 
 #shows {

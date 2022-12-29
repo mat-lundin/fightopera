@@ -1,7 +1,7 @@
 const home = ()=> {
     return (
         <div id='home'>
-            <h1>Home</h1>
+            <h1>Fight Opera</h1>
         </div>
     )
 };
