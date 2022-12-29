@@ -13,3 +13,7 @@ nav {
     border-radius: 50%;
     margin-left: 2%;
 }
+
+#footer {
+    background-image: none;
+}
