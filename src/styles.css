@@ -8,9 +8,14 @@
     src: url(./fonts/fredericka-the-great.regular.ttf) format('truetype');
 }
 
+@font-face {
+    font-family: 'friedolin';
+    src: url('./fonts/friedolin.regular.ttf') format('truetype');
+}
+
 h1 {
     color: var(--light-text);
-    font-family: 'fredericka';
+    font-family: 'friedolin';
 }
 
 nav {
@@ -19,7 +24,7 @@ nav {
     background-position: center;
     /* background-repeat: no-repeat; */
     background-position-x: right;
-    font-family: 'fredericka';
+    font-family: 'friedolin';
 }
 
 .nav-link {
@@ -39,12 +44,6 @@ nav {
     height: 90vh;
     background-image: url('../public/images/IG/301730435_460273709332977_8805898641640415304_n.jpg');
     background-position-y: 60em;
-}
-
-#shows {
-    height: 70vh;
-    /* background-image: url('../public/images/IG/310159502_503923617884933_8729406778848083505_n.jpg'); */
-    /* background-repeat: none; */
 }
 
 #shows .banner {
@@ -71,6 +70,7 @@ nav {
 
 #footer {
     background-image: none;
+    margin-top: 100%;
 
 }
 

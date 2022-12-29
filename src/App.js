@@ -20,8 +20,9 @@ function App() {
           <Route path = '/wrestlers' element = {<Wrestlers />}></Route>
           <Route path = '/about' element = {<About />}></Route>
         </Routes>
+        <Footer />
       </BrowserRouter>
-      <Footer />
+      
     </div>
   );
 }
