@@ -9,7 +9,7 @@ export default function Footer() {
           <a href="https://twitter.com/FightOpera"><img src={process.env.PUBLIC_URL + "/images/twitter.svg"} alt="Twitter"></img></a>
         </div>
         <div className="m-2">
-          <a href="https://www.facebook.com/profile.php?id=100084837019977"><img src={process.env.PUBLIC_URL + "/images/facebook.svg"} alt="Facebook"></img></a>
+          <a href="https://www.facebook.com/profile.php?id=100084837019977"><img src={process.env.PUBLIC_URL + "/images/facebook.png"} alt="Facebook"></img></a>
         </div>
       </nav>
     )

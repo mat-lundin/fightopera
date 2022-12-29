@@ -17,3 +17,7 @@ nav {
 #footer {
     background-image: none;
 }
+
+#footer img {
+    height: 10vh;
+}
