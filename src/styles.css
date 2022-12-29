@@ -1,5 +1,5 @@
 :root {
-    --light-text: antiquewhite;
+    --light-text: white;
     --font: url('./fonts/fredericka-the-great.regular.ttf')
 }
 
@@ -46,9 +46,27 @@ nav {
     background-position-y: 60em;
 }
 
+#home h1 {
+    position:absolute;
+    margin-top: 1.2em;
+    margin-left: 2em;
+    font-size: 110px;
+}
+
+#shows {
+    place-self: center;
+}
+
 #shows .banner {
     background-image: url('../public/images/IG/305708817_5450915844999749_5606405213898827815_n.jpg');
     background-position: 0em 37em;
+}
+
+#shows button {
+    display: block;
+    margin: auto;
+    margin-top: 1em;
+    border-radius: 10%;
 }
 
 #wrestlers {
