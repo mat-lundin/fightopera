@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.d52e83ca.css",
-    "main.js": "/static/js/main.c0164b7d.js",
-    "static/js/787.46a9c18a.chunk.js": "/static/js/787.46a9c18a.chunk.js",
-    "static/media/fredericka-the-great.regular.ttf": "/static/media/fredericka-the-great.regular.85a62fd03d9947f83b66.ttf",
-    "static/media/friedolin.regular.ttf": "/static/media/friedolin.regular.ac529206ce96e800c8b1.ttf",
-    "static/media/305708817___n.jpg": "/static/media/305708817_5450915844999749_5606405213898827815_n.395e51dd6d4dbae247fd.jpg",
-    "static/media/301730435_460273709332977__n.jpg": "/static/media/301730435_460273709332977_8805898641640415304_n.521d0bb7106724187417.jpg",
-    "static/media/311181289_634513091512001__n.jpg": "/static/media/311181289_634513091512001_1715567706480022684_n.eb6f1992754acbaae6cf.jpg",
-    "static/media/308707539_193603223037387__n.jpg": "/static/media/308707539_193603223037387_810455091839222362_n.ffe74aa809339ae44c67.jpg",
-    "static/media/header2.png": "/static/media/header2.e1e862a767333d039d2b.png",
-    "static/media/champion-belt-1409991-1193016.png": "/static/media/champion-belt-1409991-1193016.8ecd966d44f6ca2acb48.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.d52e83ca.css.map": "/static/css/main.d52e83ca.css.map",
-    "main.c0164b7d.js.map": "/static/js/main.c0164b7d.js.map",
-    "787.46a9c18a.chunk.js.map": "/static/js/787.46a9c18a.chunk.js.map"
+    "main.css": "/fightopera/static/css/main.518bd63f.css",
+    "main.js": "/fightopera/static/js/main.1ae8dacb.js",
+    "static/js/787.46a9c18a.chunk.js": "/fightopera/static/js/787.46a9c18a.chunk.js",
+    "static/media/fredericka-the-great.regular.ttf": "/fightopera/static/media/fredericka-the-great.regular.85a62fd03d9947f83b66.ttf",
+    "static/media/friedolin.regular.ttf": "/fightopera/static/media/friedolin.regular.ac529206ce96e800c8b1.ttf",
+    "static/media/305708817___n.jpg": "/fightopera/static/media/305708817_5450915844999749_5606405213898827815_n.395e51dd6d4dbae247fd.jpg",
+    "static/media/301730435_460273709332977__n.jpg": "/fightopera/static/media/301730435_460273709332977_8805898641640415304_n.521d0bb7106724187417.jpg",
+    "static/media/311181289_634513091512001__n.jpg": "/fightopera/static/media/311181289_634513091512001_1715567706480022684_n.eb6f1992754acbaae6cf.jpg",
+    "static/media/308707539_193603223037387__n.jpg": "/fightopera/static/media/308707539_193603223037387_810455091839222362_n.ffe74aa809339ae44c67.jpg",
+    "static/media/header2.png": "/fightopera/static/media/header2.e1e862a767333d039d2b.png",
+    "static/media/champion-belt-1409991-1193016.png": "/fightopera/static/media/champion-belt-1409991-1193016.8ecd966d44f6ca2acb48.png",
+    "static/media/logo.svg": "/fightopera/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fightopera/index.html",
+    "main.518bd63f.css.map": "/fightopera/static/css/main.518bd63f.css.map",
+    "main.1ae8dacb.js.map": "/fightopera/static/js/main.1ae8dacb.js.map",
+    "787.46a9c18a.chunk.js.map": "/fightopera/static/js/787.46a9c18a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d52e83ca.css",
-    "static/js/main.c0164b7d.js"
+    "static/css/main.518bd63f.css",
+    "static/js/main.1ae8dacb.js"
   ]
 }
