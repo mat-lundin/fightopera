@@ -21,9 +21,9 @@ const nav = () => {
             color: isActive ? '#DC143C' : '#1D253F', fontSize: '2em'
           })}> Shows&nbsp;</NavLink>
 
-          <NavLink data-toggle="collapse" data-target="#navbarCollapse" className="nav-link" activeclassname="true" to='/wrestlers' style={({ isActive }) => ({
+          <NavLink data-toggle="collapse" data-target="#navbarCollapse" className="nav-link" activeclassname="true" to='/roster' style={({ isActive }) => ({
             color: isActive ? '#DC143C' : '#1D253F', fontSize: '2em'
-          })}> Wrestlers&nbsp;</NavLink>
+          })}> Roster&nbsp;</NavLink>
 
           <NavLink data-toggle="collapse" data-target="#navbarCollapse" className="nav-link" activeclassname="true" to='/about' style={({ isActive }) => ({
             color: isActive ? '#DC143C' : '#1D253F', fontSize: '2em'

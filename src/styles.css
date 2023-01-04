@@ -68,7 +68,7 @@ nav {
 
 #shows .banner {
     background-image: url('../public/images/IG/305708817_5450915844999749_5606405213898827815_n.jpg');
-    background-position: 0em 37em;
+    background-position: 0em 38em;
 }
 
 #shows .event {
@@ -82,15 +82,30 @@ nav {
     margin-top: .5em;
 }
 
-#wrestlers {
+/* #roster {
     height: 70vh;
 
-}
+} */
 
-#wrestlers .banner {
+#roster .banner {
     background-image: url('../public/images/IG/311181289_634513091512001_1715567706480022684_n.jpg');
     background-size: cover;
     background-position-y: -6vh ;
+}
+
+.wrestler {
+    display:inline-flex;
+    height: 15em;
+    margin: 1em 2em 0em 2em;
+}
+
+.wrestler h3 {
+    position: absolute;
+    font-family: 'friedolin';
+    color: var(--light-text);
+    font-size: 2.8em;
+    padding-left: .3em;
+    padding-top: .2em;
 }
 
 #about .banner {
