@@ -30,18 +30,23 @@ nav {
 .nav-link {
     /* background-color: white; */
     background-image: url(../public/images/nav/champion-belt-1409991-1193016.png);
-    background-size: 5em;
+    background-size: 6em 6em;
     background-position: center;
     /* opacity: calc(.5);
     border-radius: 50%; */
-    margin-left: 2%;
-    width: 4em;
+    margin-left: .2em;
+    width: 5em;
 }
 
 .banner {
 
     height: 40vh;
     margin-bottom: 3em;
+}
+
+.banner h1 {
+    font-size: 110px;
+    padding-top: .5em;
 }
 
 #home {
@@ -58,7 +63,7 @@ nav {
 }
 
 #shows {
-    place-self: center;
+    place-content: center;
 }
 
 #shows .banner {
@@ -66,11 +71,15 @@ nav {
     background-position: 0em 37em;
 }
 
-#shows button {
+#shows .event {
     display: block;
     margin: auto;
     margin-top: 1em;
-    border-radius: 10%;
+    /* border-radius: 10%; */
+}
+
+.eventDetails {
+    margin-top: .5em;
 }
 
 #wrestlers {
