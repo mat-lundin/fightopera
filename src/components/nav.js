@@ -7,25 +7,25 @@ const nav = () => {
   // a lot of weird stuff in here, compare to https://react-bootstrap.github.io/components/navbar/
   return (
     <Navbar collapseOnSelect expand="lg">
-      <Navbar.Brand style={{ padding: 0, paddingLeft: "3%", color: "#FFFFFF", fontSize: "3.4em" }} href="/" >Fight Opera</Navbar.Brand>
+      <Navbar.Brand style={{ padding: 0, paddingLeft: "3%", color: "#FFFFFF", fontSize: "3.4em" }} href="/fightopera/home" >Fight Opera</Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" className="custom-toggler" />
       <Navbar.Collapse className="collapse navbar-collapse" id="navbarCollapse" style={{ paddingRight: "3%" }} variant="success">
 
         <Nav className="justify-content-end" style={{ width: "100%" }}>
 
-          <NavLink data-toggle="collapse" data-target="#navbarCollapse" className="nav-link" activeclassname="true" to='/' style={({ isActive }) => ({
+          <NavLink data-toggle="collapse" data-target="#navbarCollapse" className="nav-link" activeclassname="true" to='/fightopera/home' style={({ isActive }) => ({
             color: isActive ? '#DC143C' : '#1D253F', fontSize: '2em'
           })}> Home</NavLink>
 
-          <NavLink data-toggle="collapse" data-target="#navbarCollapse" className="nav-link" activeclassname="true" to='/shows' style={({ isActive }) => ({
+          <NavLink data-toggle="collapse" data-target="#navbarCollapse" className="nav-link" activeclassname="true" to='/fightopera/shows' style={({ isActive }) => ({
             color: isActive ? '#DC143C' : '#1D253F', fontSize: '2em'
           })}> Shows&nbsp;</NavLink>
 
-          <NavLink data-toggle="collapse" data-target="#navbarCollapse" className="nav-link" activeclassname="true" to='/roster' style={({ isActive }) => ({
+          <NavLink data-toggle="collapse" data-target="#navbarCollapse" className="nav-link" activeclassname="true" to='/fightopera/roster' style={({ isActive }) => ({
             color: isActive ? '#DC143C' : '#1D253F', fontSize: '2em'
           })}> Roster&nbsp;</NavLink>
 
-          <NavLink data-toggle="collapse" data-target="#navbarCollapse" className="nav-link" activeclassname="true" to='/about' style={({ isActive }) => ({
+          <NavLink data-toggle="collapse" data-target="#navbarCollapse" className="nav-link" activeclassname="true" to='/fightopera/about' style={({ isActive }) => ({
             color: isActive ? '#DC143C' : '#1D253F', fontSize: '2em'
           })}>About&nbsp;</NavLink>
         </Nav>

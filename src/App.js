@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import './styles.css';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
@@ -15,10 +14,11 @@ function App() {
             <BrowserRouter>
         <Nav />
         <Routes>
-          <Route path = '/' element = {<Home />}></Route>
-          <Route path = '/shows' element = {<Shows />}></Route>
-          <Route path = '/roster' element = {<Roster />}></Route>
-          <Route path = '/about' element = {<About />}></Route>
+          <Route path = 'fightopera/' element = {<Home />}></Route>
+          <Route path = 'fightopera/home' element = {<Home />}></Route>
+          <Route path = 'fightopera/shows/' element = {<Shows />}></Route>
+          <Route path = 'fightopera/roster/' element = {<Roster />}></Route>
+          <Route path = 'fightopera/about/' element = {<About />}></Route>
         </Routes>
         <Footer />
       </BrowserRouter>
