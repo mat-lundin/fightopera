@@ -39,9 +39,8 @@ nav {
 }
 
 .banner {
-
     height: 40vh;
-    margin-bottom: 3em;
+    margin-bottom: 2em;
 }
 
 .banner h1 {
@@ -93,10 +92,19 @@ nav {
     background-position-y: -6vh ;
 }
 
+#roster h2 {
+    font-family: 'friedolin';
+    font-size: 3em;;
+}
+
+.wrestlers {
+    padding-bottom: 2em;
+}
+
 .wrestler {
     display:inline-flex;
     height: 15em;
-    margin: 1em 2em 0em 2em;
+    margin: 1em 3em 0em 3em;
 }
 
 .wrestler h3 {
@@ -112,6 +120,12 @@ nav {
     background-image: url('../public/images/IG/308707539_193603223037387_810455091839222362_n.jpg');
     background-size: cover;
     background-position-y: -75vh ;
+}
+
+.aboutDesc p {
+    margin-left: 3em;
+    margin-right: 3em;
+    text-align: left;
 }
 
 #footer {
