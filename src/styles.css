@@ -81,6 +81,10 @@ nav {
     margin-top: .5em;
 }
 
+#merch .banner {
+    background-image: url('../public/images/IG/311906474_632504035076193_3940616914846406325_n.jpg');
+}
+
 /* #roster {
     height: 70vh;
 
