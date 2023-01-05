@@ -15,7 +15,6 @@ function App() {
         <Nav />
         <Routes>
           <Route path = 'fightopera/' element = {<Home />}></Route>
-          <Route path = 'fightopera/home' element = {<Home />}></Route>
           <Route path = 'fightopera/shows/' element = {<Shows />}></Route>
           <Route path = 'fightopera/roster/' element = {<Roster />}></Route>
           <Route path = 'fightopera/about/' element = {<About />}></Route>
