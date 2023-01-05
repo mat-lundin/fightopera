@@ -9,6 +9,7 @@ import Roster from './pages/Roster';
 import About from './pages/About';
 import Footer from './components/footer';
 
+// github pages issue with refresh, see https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing
 function App() {
   return (
     <div className="App">
