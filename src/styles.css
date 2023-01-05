@@ -93,15 +93,6 @@ nav {
     margin: 1em 3em 0em 3em;
 }
 
-.item Button {
-    /* height: 2em; */
-}
-
-/* #roster {
-    height: 70vh;
-
-} */
-
 #roster .banner {
     background-image: url('../public/images/IG/311181289_634513091512001_1715567706480022684_n.jpg');
     background-size: cover;
@@ -123,13 +114,23 @@ nav {
     margin: 1em 3em 0em 3em;
 }
 
+.wrestlerImg {
+    width: 15em;
+    padding-right: 1.6em;
+}
+
 .wrestler h3 {
     position: absolute;
     font-family: 'friedolin';
     color: var(--light-text);
     font-size: 2.8em;
     padding-left: .3em;
-    padding-top: .2em;
+    padding-top: .4em;
+}
+
+.wrestlerBio {
+    margin-left: 2em;
+    text-align: left;
 }
 
 #about .banner {

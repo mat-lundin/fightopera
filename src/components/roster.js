@@ -48,8 +48,8 @@ const roster = () => {
             <div className='managers'>
                 <h2>Managers</h2>
                 <div className="wrestler">
-                <h3>Bones Mason</h3>
-                <Image src={process.env.PUBLIC_URL + '/images/IG/309057448_210397634663345_1524968459075524938_n.jpg'}></Image>
+                <h3>The Bastard</h3>
+                <Image className='wrestlerImg' src={process.env.PUBLIC_URL + '/images/misc/hulk.png'}></Image>
                 <div className='wrestlerBio'>
                     <p>Perspiciatis
                         minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit
@@ -66,8 +66,8 @@ const roster = () => {
                 </div>
             </div>
             <div className="wrestler">
-                <h3>Smoke</h3>
-                <Image src={process.env.PUBLIC_URL + '/images/IG/310661502_1172373823625895_6729081499472376910_n.jpg'}></Image>
+                <h3>Randy</h3>
+                <Image className='wrestlerImg' src={process.env.PUBLIC_URL + '/images/misc/randysavage24.jpg'}></Image>
                 <div className='wrestlerBio'>
                     <p>Perspiciatis
                         minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit
