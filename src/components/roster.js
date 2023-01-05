@@ -44,6 +44,41 @@ const roster = () => {
                         quasi aliquam eligendi, placeat qui corporis!</p>
                 </div>
             </div>
+            <div className="wrestler">
+                <h3>Propain</h3>
+                <Image src={process.env.PUBLIC_URL + '/images/misc/hank.jpg'}></Image>
+                <div className='wrestlerBio'>
+                    <p>Perspiciatis
+                        minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit
+                        quibusdam sed amet tempora. Sit laborum ab, eius fugit doloribus tenetur
+                        fugiat, temporibus enim commodi iusto libero magni deleniti quod quam
+                        consequuntur! Commodi minima excepturi repudiandae velit hic maxime
+                        doloremque. Quaerat provident commodi consectetur veniam similique ad
+                        earum omnis ipsum saepe, voluptas, hic voluptates pariatur est explicabo
+                        fugiat, dolorum eligendi quam cupiditate excepturi mollitia maiores labore
+                        suscipit quas? Nulla, placeat. Voluptatem quaerat non architecto ab laudantium
+                        modi minima sunt esse temporibus sint culpa, recusandae aliquam numquam
+                        totam ratione voluptas quod exercitationem fuga. Possimus quis earum veniam
+                        quasi aliquam eligendi, placeat qui corporis!</p>
+                </div>
+            </div>
+            <div className="wrestler">
+                <h3>Grannies</h3>
+                <Image src={process.env.PUBLIC_URL + '/images/misc/oldppl.jpg'}></Image>
+                <div className='wrestlerBio'>
+                    <p>Tag team champions! Officiis iure rerum voluptates a cumque velit
+                        quibusdam sed amet tempora. Sit laborum ab, eius fugit doloribus tenetur
+                        fugiat, temporibus enim commodi iusto libero magni deleniti quod quam
+                        consequuntur! Commodi minima excepturi repudiandae velit hic maxime
+                        doloremque. Quaerat provident commodi consectetur veniam similique ad
+                        earum omnis ipsum saepe, voluptas, hic voluptates pariatur est explicabo
+                        fugiat, dolorum eligendi quam cupiditate excepturi mollitia maiores labore
+                        suscipit quas? Nulla, placeat. Voluptatem quaerat non architecto ab laudantium
+                        modi minima sunt esse temporibus sint culpa, recusandae aliquam numquam
+                        totam ratione voluptas quod exercitationem fuga. Possimus quis earum veniam
+                        quasi aliquam eligendi, placeat qui corporis!</p>
+                </div>
+            </div>
             </div>
             <div className='managers'>
                 <h2>Managers</h2>
@@ -68,6 +103,24 @@ const roster = () => {
             <div className="wrestler">
                 <h3>Randy</h3>
                 <Image className='wrestlerImg' src={process.env.PUBLIC_URL + '/images/misc/randysavage24.jpg'}></Image>
+                <div className='wrestlerBio'>
+                    <p>Perspiciatis
+                        minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit
+                        quibusdam sed amet tempora. Sit laborum ab, eius fugit doloribus tenetur
+                        fugiat, temporibus enim commodi iusto libero magni deleniti quod quam
+                        consequuntur! Commodi minima excepturi repudiandae velit hic maxime
+                        doloremque. Quaerat provident commodi consectetur veniam similique ad
+                        earum omnis ipsum saepe, voluptas, hic voluptates pariatur est explicabo
+                        fugiat, dolorum eligendi quam cupiditate excepturi mollitia maiores labore
+                        suscipit quas? Nulla, placeat. Voluptatem quaerat non architecto ab laudantium
+                        modi minima sunt esse temporibus sint culpa, recusandae aliquam numquam
+                        totam ratione voluptas quod exercitationem fuga. Possimus quis earum veniam
+                        quasi aliquam eligendi, placeat qui corporis!</p>
+                </div>
+            </div>
+            <div className="wrestler">
+                <h3>Lundin<br></br>Machine</h3>
+                <Image src={process.env.PUBLIC_URL + '/images/misc/me.jpg'}></Image>
                 <div className='wrestlerBio'>
                     <p>Perspiciatis
                         minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit
