@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fightopera/static/css/main.6f09a47e.css",
-    "main.js": "/fightopera/static/js/main.30cc05c6.js",
+    "main.css": "/fightopera/static/css/main.12b8db95.css",
+    "main.js": "/fightopera/static/js/main.9ab2c77a.js",
     "static/js/787.46a9c18a.chunk.js": "/fightopera/static/js/787.46a9c18a.chunk.js",
     "static/media/fredericka-the-great.regular.ttf": "/fightopera/static/media/fredericka-the-great.regular.85a62fd03d9947f83b66.ttf",
     "static/media/friedolin.regular.ttf": "/fightopera/static/media/friedolin.regular.ac529206ce96e800c8b1.ttf",
@@ -13,12 +13,12 @@
     "static/media/header2.png": "/fightopera/static/media/header2.e1e862a767333d039d2b.png",
     "static/media/champion-belt-1409991-1193016.png": "/fightopera/static/media/champion-belt-1409991-1193016.8ecd966d44f6ca2acb48.png",
     "index.html": "/fightopera/index.html",
-    "main.6f09a47e.css.map": "/fightopera/static/css/main.6f09a47e.css.map",
-    "main.30cc05c6.js.map": "/fightopera/static/js/main.30cc05c6.js.map",
+    "main.12b8db95.css.map": "/fightopera/static/css/main.12b8db95.css.map",
+    "main.9ab2c77a.js.map": "/fightopera/static/js/main.9ab2c77a.js.map",
     "787.46a9c18a.chunk.js.map": "/fightopera/static/js/787.46a9c18a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f09a47e.css",
-    "static/js/main.30cc05c6.js"
+    "static/css/main.12b8db95.css",
+    "static/js/main.9ab2c77a.js"
   ]
 }
