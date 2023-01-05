@@ -17,6 +17,10 @@ const nav = () => {
             color: isActive ? '#DC143C' : '#1D253F', fontSize: '2em'
           })}> Shows&nbsp;</NavLink>
 
+<NavLink data-toggle="collapse" data-target="#navbarCollapse" className="nav-link" activeclassname="true" to='/fightopera/merch' style={({ isActive }) => ({
+            color: isActive ? '#DC143C' : '#1D253F', fontSize: '2em'
+          })}> Merch&nbsp;</NavLink>
+
           <NavLink data-toggle="collapse" data-target="#navbarCollapse" className="nav-link" activeclassname="true" to='/fightopera/roster' style={({ isActive }) => ({
             color: isActive ? '#DC143C' : '#1D253F', fontSize: '2em'
           })}> Roster&nbsp;</NavLink>
