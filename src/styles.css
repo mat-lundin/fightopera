@@ -83,6 +83,18 @@ nav {
 
 #merch .banner {
     background-image: url('../public/images/IG/311906474_632504035076193_3940616914846406325_n.jpg');
+    background-position: 0em -15em;
+    background-size: cover;
+}
+
+.item {
+    display:inline-flex;
+    height: 15em;
+    margin: 1em 3em 0em 3em;
+}
+
+.item Button {
+    /* height: 2em; */
 }
 
 /* #roster {
