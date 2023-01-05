@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 
-// make name bigger without having nav bar itself bigger, reduce font size of nav
+
 const nav = () => {
   // a lot of weird stuff in here, compare to https://react-bootstrap.github.io/components/navbar/
   return (
